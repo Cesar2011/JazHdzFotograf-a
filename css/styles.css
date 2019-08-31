@@ -1,0 +1,54 @@
+body{
+  margin:0;
+  font-family: Raleway,sans-serif;
+}
+
+/* Nav bar------------------------- */
+
+.nav-link{
+  margin-right:5rem;
+  margin-left: 5rem;
+  font-weight: bold;
+  font-family: Quicksand,sans-serif;
+}
+
+
+/* Top container *******************/
+
+.col-lg-12{
+  padding: 0;
+  text-align: center;
+  background-color: #ecf4f3
+}
+
+.jazminCamara{
+  width: 100%;
+}
+
+h1{
+  text-align: center;
+  padding: 10% 0 2%;
+  font-family: Quicksand,sans-serif;
+  line-height: 1.3;
+}
+
+.top-container-text{
+  padding: 0 20% 10%;;
+  text-align: center;
+  line-height: 2;
+}
+
+/* carousel */
+
+.col-lg-6{
+  padding: 0;
+}
+.carousel-container-text{
+  text-align: center;
+  padding: 20% 20%;
+  line-height: 2;
+}
+
+.carousel-images{
+   width: 100%;
+}
