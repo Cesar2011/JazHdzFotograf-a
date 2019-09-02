@@ -3,6 +3,7 @@ body{
   font-family: Raleway,sans-serif;
 }
 
+
 /* Nav bar------------------------- */
 
 .nav-link{
@@ -18,7 +19,7 @@ body{
 .col-lg-12{
   padding: 0;
   text-align: center;
-  background-color: #ecf4f3
+  background-color: #ecf4f3;
 }
 
 .jazminCamara{
@@ -38,7 +39,7 @@ h1{
   line-height: 2;
 }
 
-/* carousel */
+/* information */
 
 .col-lg-6{
   padding: 0;
@@ -51,4 +52,50 @@ h1{
 
 .carousel-images{
    width: 100%;
+}
+
+/* call to action */
+
+.call-to-action{
+  text-align: center;
+  background-color: #ecf4f3;
+}
+
+.call-to-action-text{
+  padding: 7% 30% 2%;
+  line-height: 2;
+  font-family: Quicksand,sans-serif;
+}
+
+.contactame-btn{
+  margin-bottom: 7%;
+  font-size: 150%;
+}
+
+/* footer */
+.footer-name{
+  background-color: #57a99a;
+  color: #ffff;
+  padding-top: 2%;
+  text-align: center;
+}
+
+.footer-text{
+  background-color: #57a99a;
+  text-align: center;
+  color: #ffff;
+
+}
+
+.footer-link{
+  color: #ffff;
+}
+
+.footer-link:hover{
+  color: #ecf4f3;
+}
+
+.contact-icons{
+  font-size: 2.5rem;
+  padding: 1% 2% 2%;
 }
